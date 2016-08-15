@@ -1,0 +1,7 @@
+INDEX_FILE=data100/index.txt # yeh
+# hellooooooooo
+OUTPUT_FILE = outputfile.txt
+RESTART_PROBABILITY = 0.15
+STEP_NUMBER = 25
+pi =    3.14159#hhhhaaaa
+whattt = wwowww

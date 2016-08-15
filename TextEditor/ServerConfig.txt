@@ -1,0 +1,2 @@
+Port: 7777
+Update Interval: 5000
